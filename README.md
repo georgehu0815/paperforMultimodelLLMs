@@ -1,4 +1,4 @@
-# paperforMultimodelLLMs
+# paperforMultimodalLLMs
 Multimodal LLMs
 
 
@@ -10,4 +10,9 @@ Please refer the blog at https://www.linkedin.com/pulse/understanding-multimodal
 
 
 # AI Agent and its applications
+
+
+# LLms
+
+
 
